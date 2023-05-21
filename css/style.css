@@ -51,7 +51,7 @@
 .all {
     background-color:var(--deafolt-bg);
     color: var(--deafolt-text);
-    min-width: 1920px;
+    min-width: 1200px;
     font-family: "Muller", sans-serif;
     font-weight: 400;
 }
@@ -65,7 +65,7 @@ a {
 .main-content {
     margin: 0 auto;
     padding: 0;
-    max-width: 1170px;
+    width: 1170px;
 }
 
 .main-title {
