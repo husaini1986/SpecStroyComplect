@@ -51,7 +51,7 @@
 .all {
     background-color:var(--deafolt-bg);
     color: var(--deafolt-text);
-    min-width: 1400px;
+    min-width: 1920px;
     font-family: "Muller", sans-serif;
     font-weight: 400;
 }
